@@ -1,0 +1,648 @@
+\documentclass[man, floatsintext]{apa7}
+
+% Cambiar idioma a español
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[section]{placeins}
+\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+\usepackage{csquotes}
+\usepackage{array,fancyvrb,graphicx,verbatim,xurl}
+\usepackage{booktabs} % para tablas con \toprule, \midrule, \bottomrule
+\usepackage{threeparttable} % para tablas con notas
+\usepackage{geometry} % Para controlar los márgenes en la portada
+\usepackage{ragged2e} % Para control de justificación
+\usepackage{graphicx}
+\usepackage{float}
+
+
+\graphicspath{{./IMG/}}
+
+% Para que biblatex use español en las referencias
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\addbibresource{bibliography.bib}
+
+% Esto evita que la clase apa7 genere su propia portada.
+\title{}
+\shorttitle{}
+\author{}
+\affiliation{}
+\abstract{}
+\keywords{}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	citecolor=black,
+	urlcolor=black
+}
+
+\begin{document}
+	
+	% --- Comienzo de la portada personalizada ---
+	
+	\begin{titlepage}
+		\centering % Centra todo el contenido de la portada
+		
+		\textbf{\large UNIVERSIDAD DE EL SALVADOR} \\
+		\textbf{\large FACULTAD DE INGENIERÍA Y ARQUITECTURA} \\
+		\textbf{\large ESCUELA DE INGENIERÍA DE SISTEMAS INFORMÁTICOS} \\
+		\textbf{\large DISEÑO DE SISTEMAS 2 – DSI215} \\
+		\textbf{\large CICLO II – 2025} \\
+		
+		\vspace{0.2in} % Espacio antes del escudo
+		
+		\includegraphics[width=0.3\textwidth]{UES.jpg} % Cambia 'UES.JPEG' al nombre de tu archivo
+		
+		\vspace{0.2in} % Espacio después del escudo
+		
+		\textbf{\large TAREA 2:} \\	
+		\textbf{\large Análisis de Herramientas para la Automatización y Documentación de Software y APIs } \\	
+		
+		\vspace{0.2in} % Espacio antes del docente
+		
+		\textbf{\large DOCENTE:} \\
+		\textbf{\large ING. Karen Elvira Pañate Aviles} \\
+		
+		\vspace{0.2in} % Espacio antes de la tabla
+		
+		\textbf{\large Estudiante:} \\
+		
+		\vspace{0.1in}
+		
+		\begin{tabular}{|c|c|c|}
+			\hline
+			\textbf{CARNET} & \textbf{APELLIDOS} & \textbf{NOMBRES} \\
+			\hline
+			VS21025 & Vásquez Santos & Giovanni Alberto \\
+			\hline
+		\end{tabular}
+		
+		\vspace*{\fill} % Empuja el contenido restante hacia abajo
+		
+	\end{titlepage}
+	
+	% --- Fin de la portada personalizada ---
+	
+	
+	
+	
+	%indice o tabla de contenido 
+	\newpage
+	\tableofcontents
+	
+	
+	
+	
+	
+	
+	\newpage 
+	\section{Herramientas Automatizadas de Pruebas de Software}
+	
+	\subsection{1- Selenium}
+	Selenium es un framework de pruebas automatizadas de aplicaciones web que permite interactuar con navegadores de manera programática para validar la funcionalidad de sitios web.\cite{qalified_selenium_testing}\\
+	
+		URL sito oficial: 
+	\href{https://www.selenium.dev/}{Selenium}
+	
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{selenium.png}
+		\caption{Logo de Selenium}\cite{medium_selenium_image}
+		\label{fig:selenium} 
+	\end{figure}
+	
+	\subsubsection{Características}
+	\begin{enumerate}
+		\item Compatible con navegadores como Chrome, FireFox, Edge y Safari.
+		\item Soporta múltiples lenguajes: Java, Python, C\#, Ruby, JavaScript.
+		\item Permite integración con frameworks de testing (JUnit, TestNG, Pytest).
+		\item Facilita pruebas de interacción con formularios, enlaces, botones y navegación en sitios web.
+	\end{enumerate}
+	\subsubsection{Cuadro comparativo ventajas y desventajas}
+	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Ventajas} & \textbf{Desventajas} \\
+			\hline
+			Gratuito y de código abierto. & No es ideal para pruebas de aplicaciones móviles nativas. \\ \hline
+			Ampliamente adoptado por la comunidad. & Puede requerir conocimiento de programación para pruebas avanzadas. \\ \hline
+			Soporta pruebas cross-browser y cross-platform. & \\ \hline
+		\end{tabular}
+		\caption{Ventajas y desventajas de Selenium \cite{selenium_documentation}}
+		\label{tab:ventajas_desventajas_selenium}
+	\end{table}
+	
+	A continuación, se describen algunos de los tipos de pruebas que pueden ser implementadas:
+	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\textbf{Tipo de prueba} & \textbf{Descripción} \\ \hline
+			Pruebas de UI & Automatizan interacciones con la interfaz, como completar campos, seleccionar opciones o hacer clic en botones. \\ \hline
+			Pruebas de regresión & Verifican que los cambios en el código no afecten funcionalidades existentes, agilizando la liberación de nuevas versiones. \\ \hline
+			Pruebas de compatibilidad & Aseguran que la aplicación funcione correctamente en distintos navegadores y sistemas operativos. \\ \hline
+			Pruebas end-to-end & Evalúan el flujo completo de la aplicación, desde búsqueda y registro hasta pago y consulta de productos. \\ \hline
+		\end{tabular}
+		\caption{Tipos de pruebas automatizadas con Selenium}
+		\label{tab:tipos_pruebas_selenium}
+	\end{table}
+	\FloatBarrier
+
+	\subsection{2- PyTest}
+	PyTest es un framework de pruebas para Python que permite escribir pruebas unitarias y funcionales de manera sencilla y escalable. Soporta fixtures, parametrización y reportes detallados de errores.\cite{circleci_pytest_2024}\\
+	Las pruebas automatizadas son esenciales para garantizar la calidad y estabilidad del software. A continuación, se presentan las características más relevantes de Pytest, las cuales lo convierten en una opción preferida por desarrolladores y equipos de prueba.\\
+	
+			URL sito oficial: 
+	\href{https://docs.pytest.org/}{Pytest}
+	
+	\subsubsection {Características Pyest}
+	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{5cm}|p{10cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Descripción} \\
+			\hline
+			Sintaxis simple & Pytest ofrece un enfoque sencillo para escribir pruebas, haciéndolo accesible para principiantes. \\
+			\hline
+			Introspección de afirmación & Exclusiva de pytest, la introspección de aserciones proporciona una depuración más sencilla al resaltar el punto exacto de falla en una prueba. \\
+			\hline
+			Compatibilidad & Pytest se integra perfectamente con los conjuntos de pruebas unitarias y pruebas nasales existentes, lo que le permite migrar a pytest sin reescribir las pruebas. \\
+			\hline
+			Arquitectura basada en complementos & La extensibilidad del marco mediante complementos apoya la personalización y mejora de sus funcionalidades principales. \\
+			\hline
+		\end{tabular}
+		\caption{Características clave de Pytest}
+		\label{tab:caracteristicas_pytest}
+	\end{table}
+	% esta es la tabla para la figura 
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{pytest.png}
+		\caption{Logo Pytest} \cite{pytest_logo}
+		\label{fig:Pytest} 
+	\end{figure}
+	\subsubsection {ventajas y desventajas Pytest}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Ventajas} & \textbf{Desventajas} \\
+			\hline
+			Sintaxis simple y código limpio. & No es ideal para pruebas de carga complejas. \\ \hline
+			Fixtures que permiten configurar y limpiar el entorno de pruebas de forma sencilla. & Puede ser un poco más lento que otros frameworks de prueba para proyectos muy grandes. \\ \hline
+			Gran cantidad de plugins disponibles. & \\ \hline
+		\end{tabular}
+		\caption{Ventajas y desventajas de PyTest}
+		\label{tab:ventajas_desventajas_pytest}
+	\end{table}
+	\FloatBarrier
+	
+	\subsection{3- Katalon}
+	Katalon Studio es una plataforma integral para automatizar pruebas, cuyo objetivo es simplificar la creación, ejecución y administración de pruebas automatizadas en sistemas de escritorio, aplicaciones web y móviles. Brinda una interfaz gráfica intuitiva que posibilita a los usuarios desarrollar pruebas sin tener que escribir código, si bien también admite scripting avanzado para aquellos usuarios más experimentados. Esto lo hace una herramienta flexible, adecuada para equipos con o sin experiencia técnica.\cite{katalon_studio}\\
+		URL sito oficial: 
+	\href{https://katalon.com/}{Katalon}
+	
+	%tabla para la imgaen 
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{katalon.jpeg}
+		\caption{Logo Katalon} \cite{katalon_logo}
+		\label{fig:Katalon} 
+	\end{figure}
+	
+	
+	\subsubsection{ventjas y desventajas Katalon}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Ventajas} & \textbf{Desventajas} \\
+			\hline
+			Interfaz de usuario intuitiva y fácil de usar. & No permite combinar pasos de Selenium y Appium en una misma prueba. \\ \hline
+			Soporte para múltiples tipos de pruebas (web, móvil, API, escritorio). & Algunas limitaciones en la personalización avanzada de pruebas. \\ \hline
+			Integración eficiente con Selenium y Appium. & Dependencia de la plataforma para ciertas funcionalidades. \\ \hline
+			Capacidades de IA para auto-sanación y asistencia en la creación de pruebas. & \\ \hline
+		\end{tabular}
+		\caption{Ventajas y desventajas de Katalon Studio}
+		\label{tab:katalon_pros_cons}
+	\end{table}
+	\FloatBarrier
+		\subsubsection {Características Katalon}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Descripción} \\
+			\hline
+			Interfaz de Usuario Intuitiva & Proporciona una interfaz visual para crear pruebas con grabación y reproducción, permitiendo a los usuarios alternar entre modos manuales y de código. \\ \hline
+			Integración con Selenium y Appium & Se integra de manera eficiente con Selenium y Appium para pruebas web y móviles. Permite la ejecución remota, aunque no se pueden combinar pasos de ambas herramientas en una misma prueba. \\ \hline
+			Informes Mejorados & Introduce una plantilla de informe HTML rediseñada para una mejor organización y tiempos de carga más rápidos. Los usuarios pueden filtrar casos de prueba y dividir los informes para una revisión eficiente. \\ \hline
+			Pruebas Móviles Avanzadas & Permite la ejecución de pruebas en dispositivos físicos y emuladores. Soporta la ejecución remota de pruebas móviles utilizando un servidor local de Appium. \\ \hline
+			Capacidades de IA & Incorpora funcionalidades de auto-sanación para pruebas móviles y un asistente (StudioAssist) impulsado por IA para mejorar la eficiencia y efectividad de las pruebas. \\ \hline
+		\end{tabular}
+		\caption{Características clave de Katalon Studio}
+		\label{tab:katalon_caracteristicas}
+	\end{table}
+	\FloatBarrier
+	
+	\subsection{4- Cypress}
+	Es un marco de pruebas y un conjunto de herramientas de código abierto para aplicaciones web que posibilita a los programadores redactar, implementar y depurar pruebas de manera confiable, fácil y rápida. Se enfoca en pruebas de frontend, pero también tiene la capacidad de llevar a cabo pruebas unitarias, de integración y de extremo a extremo (e2e). A diferencia de Selenium, Cypress tiene la capacidad de funcionar directamente en el navegador, brinda un test runner interactivo con la funcionalidad "time travel" para examinar el estado de la aplicación y ofrece acceso directo al DOM, las APIs del navegador y la red, así como depuración integrada. \cite{keepcoding_cypress_testing}\\
+		URL sito oficial: 
+	\href{https://www.cypress.io/}{Cypress}
+	
+	%% imagen 
+		\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{cypress.png}
+		\caption{Logo Cypress} \cite{cypress_logo_social}
+		\label{fig:Cypress} 
+	\end{figure}
+	
+	\subsubsection {Objetivo principales}
+		\begin{enumerate}
+		\item Realizar pruebas front-end en entornos modernos 
+		\item Identificar fallas de integración de la interfaz de usuario
+		\item Realizar pruebas de manera rápida y escalable. 
+		\item Optimizar la experencia del desarrollador con feedback inmdiato. 
+	\end{enumerate}
+	\subsubsection{ventajas y desventajas}
+	
+	% ventajas y desventajas de cypress
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{7cm}|p{7cm}|}
+			\hline
+			\textbf{Ventajas} & \textbf{Desventajas} \\
+			\hline
+			Es una herramienta para realizar pruebas de extremo a extremo, de componentes, de integración y unitarias. & No permite la automatización de aplicaciones móviles. \\
+			\hline
+			Es fácil de instalar, tiene una curva de aprendizaje rápida, se registran las acciones realizadas y se puede ir hacia adelante y atrás de la ejecución de las pruebas (\textit{time travel}), genera reportes concretos y su documentación es actualizada y amplia. & No permite interactuar con más de 1 tab, en varias situaciones existen alternativas para mitigar la necesidad de usar varios tabs. \\
+			\hline
+			Tiene ``built-in-tools'' que entrega inmediatamente todas las herramientas necesarias para automatizar, no hay que agregar drivers, nos permite utilizar varios navegadores como Chrome, Firefox, Edge, y para iOS se tiene la versión experimental que simula Safari. & \\
+			\hline
+			Permite escribir pruebas ``más rápidas, fáciles y confiables''. & \\
+			\hline
+		\end{tabular}
+		\caption{Ventajas y Desventajas de Cypress}
+		\label{tab:cypress_pros_cons}
+	\end{table}
+	\FloatBarrier
+	
+	\subsubsection{caracteristicas Cypress}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Descripción} \\
+			\hline
+			Estructura de ejecución en el navegador & Se ejecuta directamente en el navegador para pruebas más rápidas y estables. \\
+			\hline
+			Esperas automáticas & Elimina la necesidad de pausas manuales, reduciendo las pruebas inestables. \\
+			\hline
+			Interfaz de usuario (UI) de pruebas & Interfaz interactiva para una depuración visual en tiempo real. \\
+			\hline
+			Depuración integrada & Ofrece potentes herramientas de depuración directamente en el navegador. \\
+			\hline
+			Capturas de pantalla y videos & Graba la ejecución de las pruebas para un fácil análisis y depuración. \\
+			\hline
+			Control de tráfico de red & Permite controlar y personalizar las respuestas de las APIs para diferentes escenarios. \\
+			\hline
+			Comprobaciones de accesibilidad & Realiza verificaciones automáticas de accesibilidad sin configuración adicional. \\
+			\hline
+			Pruebas E2E y de componentes & Unifica las pruebas de extremo a extremo y de componentes en un solo entorno. \\
+			\hline
+			Framework integrado & No requiere herramientas externas, ofrece un entorno completo para la creación de pruebas. \\
+			\hline
+			Documentación y comunidad & Cuenta con una documentación exhaustiva y un buen soporte de la comunidad. \\
+			\hline
+		\end{tabular}
+		\caption{Características destacadas de Cypress (Resumen) \cite{keepcoding_cypress}}
+		\label{tab:cypress_features_summary}
+	\end{table}
+	\FloatBarrier
+	
+	\subsection{5- Cuadro comparativo herramientas para automatizar pruebas de software}
+	
+	\begin{table}[h!]
+		\centering
+		\small % Opcional: para reducir el tamaño de la fuente si la tabla es muy ancha
+		\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Selenium} & \textbf{PyTest} & \textbf{Katalon} & \textbf{Cypress} \\
+			\hline
+			\textbf{Tipo de Pruebas} & Web (UI, regresión, compatibilidad, E2E). & Unitarias y funcionales (Python). & Web, móvil, API y escritorio. & Web (E2E, componentes, integración, unitarias). \\
+			\hline
+			\textbf{Lenguajes Soportados} & Java, Python, C\#, Ruby, JavaScript. & Python. & Groovy (basado en Java). & JavaScript. \\
+			\hline
+			\textbf{Curva de Aprendizaje} & Requiere conocimientos de programación. & Sintaxis simple, accesible. & Interfaz intuitiva, fácil de empezar. & Rápida y enfocada en front-end. \\
+			\hline
+			\textbf{Ventajas Principales} & Código abierto, soporte comunitario, pruebas cross-browser. & Sintaxis simple, uso de fixtures, gran cantidad de plugins. & Interfaz visual, soporte para múltiples plataformas, capacidades de IA. & Depuración interactiva, control de red, rápida ejecución. \\
+			\hline
+			\textbf{Desventajas Principales} & No ideal para pruebas móviles nativas. & No apto para pruebas de carga complejas. & Limitaciones al combinar pasos de Selenium y Appium. & No soporta pruebas móviles ni múltiples pestañas. \\
+			\hline
+			\textbf{Características Destacadas} & Automatización programática de navegadores. & Introspección de afirmación. & Grabación y reproducción de pruebas, auto-sanación. & Se ejecuta en el navegador, esperas automáticas, videos. \\
+			\hline
+		\end{tabular}
+		\caption{Cuadro Comparativo de Herramientas de Automatización de Pruebas}
+		\label{tab:comparativo_herramientas}
+	\end{table}
+	\FloatBarrier
+	
+	\newpage
+	%%AQUI EMPIEZA SEGUNDA PARTE
+	\section{Herramientas para Documentación de Software}
+	\subsection{LaTeX}
+	LaTeX es un \textbf{sistema de preparación de documentos} orientado a la creación de textos con alta calidad tipográfica, especialmente útil para documentación técnica y científica.
+	 %uimagen 
+	 	\begin{figure}[h!]
+	 	\centering
+	 	\includegraphics[width=0.3\textwidth]{latex.png}
+	 	\caption{Logo LaTex}  \cite{latex_logo}
+	 	\label{fig:LaTex} 
+	 \end{figure}
+	
+	\subsubsection {\textbf{Objetivo Principal}}
+	Permitir a los autores concentrarse en el contenido, mientras \LaTeX{} se ocupa del formato y el diseño visual.
+	
+	\subsubsection{\textbf{Características Técnicas}}
+	\begin{enumerate}
+		\item \textbf{Lenguaje de marcado estructurado:}
+		Define la estructura del documento (capítulos, secciones, figuras, tablas, etc.), separando contenido de formato.
+		\item \textbf{Soporte avanzado de contenido técnico:}
+		Excelente manejo de fórmulas matemáticas, bibliografías, índices, referencias cruzadas y soporte multilenguaje.
+		\item \textbf{Extensible mediante paquetes:}
+		Add-ons para gráficos, presentaciones, tablas complejas, etc. disponibles desde repositorios como CTAN.
+		\item \textbf{Salida de alta calidad:}
+		Producción de documentos PDF o formatos intermedios (DVI, PS), con posibilidad de conversión a HTML, XML, EPUB, etc., usando herramientas como \textit{Pandoc}, \textit{LaTeXML}, \textit{LaTeX2HTML}.
+	\end{enumerate}
+	
+	\subsubsection{Ventajas}
+	\begin{enumerate}
+		\item \textbf{Calidad tipográfica:} ideal para publicaciones científicas, tesis y documentación técnica.
+		\item \textbf{Separación entre contenido y formato:} permite reusar plantillas.
+		\item \textbf{Extensible y adaptable:} Dispone de un amplio ecosistema de paquetes y herramientas disponibles.
+		\item \textbf{Automatización avanzada:} Ideal para generar informes automatizados, como en entornos de análisis de datos.
+	\end{enumerate}
+	
+	\subsubsection{\textbf{Desventajas}}
+	\begin{enumerate}
+		\item La curva de aprendizaje es más compleja en comparación con editores tradicionales.
+		\item Requiere el aprendizaje de sintaxis.
+	\end{enumerate}
+	
+	\subsection {AsciiDoc}
+
+	
+	
+	%% 
+	\section{Herramientas para documentar APIs REST.}
+	\subsection {1. Swagger (OpenAPI)}
+	Permite crear documentación interactiva de APIs REST, facilitando la comprensión y el consumo de los servicios web.\\
+		URL sito oficial: 
+	\href{https://swagger.io/}{Swagger}
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{swagger.jpeg}
+		\caption{Logo Swagger} \cite{swagger_logo_assertible}
+		\label{fig:Swagger} 
+	\end{figure}
+	\subsubsection{Características}
+	\begin{itemize}
+		\item \textbf{Portal web interactivo:} Genera automáticamente un portal web donde los usuarios pueden probar los \textit{endpoints} de la API, ver la estructura de las peticiones y respuestas, y ejecutar llamadas.
+		\item \textbf{Compatibilidad:} Es compatible con múltiples lenguajes de programación y \textit{frameworks} como Java, Python, Node.js, y Ruby, entre otros.
+		\item \textbf{Códigos HTTP:} Permite definir los códigos de respuesta HTTP (200, 201, 400, 500, etc.) para documentar los posibles resultados de cada operación.
+		\item \textbf{Definición de esquemas:} Soporta la definición de parámetros de entrada y salida, modelos de datos y métodos de autenticación (como OAuth2 o API keys).
+		\item \textbf{Estándar OpenAPI:} Está basada en la especificación OpenAPI, lo que garantiza que la documentación sea estandarizada y legible tanto por humanos como por m\'{a}quinas (formatos JSON o YAML).
+	\end{itemize}
+
+	\subsubsection{Ventajas y Limitaciones}
+	
+	\paragraph{Ventajas:}
+	\begin{itemize}
+		\item Documentación autom\'{a}tica y estandarizada.
+		\item Interfaz interactiva que permite probar los \textit{endpoints} sin herramientas externas.
+		\item Facilita la colaboraci\'{o}n entre desarrolladores y equipos de QA.
+	\end{itemize}
+	
+	\paragraph{Limitaciones:}
+	\begin{itemize}
+		\item Requiere mantener actualizado el esquema OpenAPI para reflejar los cambios en la API.
+		\item La interfaz puede ser limitada en personalizaci\'{o}n visual sin herramientas adicionales.
+	\end{itemize}
+	
+	
+	\subsection {2. Postman }
+	Postman es una herramienta que facilita la documentación, el desarrollo y las pruebas de las APIs REST. Permite la creación de colecciones de solicitudes HTTP que se pueden compartir, exportar y emplear para crear documentación automática.\cite{postman_website}\\
+		URL sito oficial: 
+	\href{https://www.postman.com/}{Postman}
+	
+	%imagen 
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\textwidth]{postman.png}
+		\caption{Logo Postman}\cite{postman_press_media}
+		\label{fig:Postman} 
+	\end{figure}
+	
+	\subsubsection{Características Técnicas}
+	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{5cm}|p{9cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Descripción} \\ \hline
+			Protocolos soportados & HTTP, HTTPS, WebSocket, GraphQL. \\ \hline
+			Tipos de request & GET, POST, PUT, PATCH, DELETE, OPTIONS. \\ \hline
+			Soporte para autenticación & API Key, OAuth 2.0, JWT, Basic Auth, Bearer Tokens. \\ \hline
+			Gestión de entornos & Variables globales, locales y de entorno para simular diferentes configuraciones (producción, desarrollo, testing). \\ \hline
+			Colecciones & Agrupación de endpoints para organizar proyectos. \\ \hline
+			Documentación automática & Permite publicar documentación interactiva basada en colecciones. \\ \hline
+			Testing y automatización & Soporte para escribir tests en JavaScript que validan respuestas de la API. \\ \hline
+			Integraciones CI/CD & Jenkins, GitHub Actions, GitLab CI, entre otros. \\ \hline
+			Exportación & JSON (colecciones), HTML (documentación). \\ \hline
+		\end{tabular}
+		\caption{Características técnicas Postman}
+		\label{tab:caracteristicas_tecnicas}
+	\end{table}
+	\FloatBarrier
+	\subsubsection{Ventajas y desventajas}\cite{formadoresit_postman_ventajas}
+	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Ventajas} & \textbf{Desventajas} \\ \hline
+			Interfaz gráfica intuitiva. & Consume más recursos que herramientas ligeras como cURL. \\ \hline
+			Compatible con cualquier API REST, sin importar el lenguaje. & Requiere cuenta online para compartir colecciones/documentación. \\ \hline
+			Documentación automática a partir de colecciones. & Algunas funciones avanzadas (monitorización, API mocking, integración empresarial) son de pago. \\ \hline
+			Funcionalidad de pruebas automatizadas y reportes. & \\ \hline
+			Permite compartir colecciones y entornos entre equipos. & \\ \hline
+			Comunidad muy activa y soporte oficial. & \\ \hline
+		\end{tabular}
+		\caption{Ventajas y desventajas postman}
+		\label{tab:ventajas_desventajas}
+	\end{table}
+	\FloatBarrier
+	%precios de postman
+	\subsubsection {Planes de postman} \cite{postman_pricing}
+ 	\begin{table}[h!]
+		\centering
+		\caption{Planes de Postman (resumen)}
+		\begin{tabular}{|p{3cm}|p{10cm}|}
+			\hline
+			\textbf{Plan} & \textbf{Características principales} \\
+			\hline
+			\textbf{Gratis} (\$0) &
+			- Hasta 3 usuarios \\
+			& - Cliente API básico \\
+			& - 1 API privada, públicas ilimitadas \\
+			\hline
+			\textbf{Básico} (\$14/usuario/mes) &
+			- Usuarios ilimitados \\
+			& - 3 APIs privadas \\
+			& - Recuperación colecciones: 30 días \\
+			\hline
+			\textbf{Profesional} (\$29/usuario/mes) &
+			- Equipos grandes \\
+			& - Espacios de trabajo privados \\
+			& - 10 APIs privadas \\
+			\hline
+			\textbf{Empresa} (\$49/usuario/mes) &
+			- Seguridad y control avanzados \\
+			& - APIs ilimitadas \\
+			& - Reportes y auditoría \\
+			\hline
+		\end{tabular}
+	\end{table}
+	\FloatBarrier
+	\subsection {3. Apidog }
+	Es una herramienta de documentación y prueba de API que ayuda a los desarrolladores a diseñar, documentar, depurar, probar y simular sus API. Su objetivo es facilitar la creación y la gestión de API al proporcionar una interfaz intuitiva y fácil de usar. Apidog está disponible en versiones basadas en la nube y autohospedadas y admite varios lenguajes de programación y marcos de API.\cite{apidog}\\
+	 
+	URL sito oficial: 
+	\href{https://apidog.com}{APIDog}
+	
+	%% imagen 
+	\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.3\textwidth]{apidog.png}
+	\caption{Logo Apidog} \cite{apidog_mastering_stripe_api_pt}
+	\label{fig:Apidog} 
+\end{figure}
+	
+\subsubsection*{Características Técnicas} \cite{apidog_postman}
+
+\begin{itemize}
+	\item \textbf{Compatibilidad:} OpenAPI 2.0 y 3.0, Swagger.
+	\item \textbf{Protocolos soportados:} HTTP, HTTPS, WebSocket, GraphQL.
+	\item \textbf{Métodos HTTP soportados:} GET, POST, PUT, PATCH, DELETE, OPTIONS.
+	\item \textbf{Gestión de entornos:} Variables globales y de entorno (similar a Postman).
+	\item \textbf{Generación automática de documentación:} Documentación interactiva basada en definiciones OpenAPI.
+	\item \textbf{Mock Server:} Simulación de respuestas de la API sin necesidad de backend real.
+	\item \textbf{Pruebas automatizadas:} Scripts de validación de endpoints.
+	\item \textbf{Colaboración en equipo:} Control de versiones, sincronización y roles de usuario.
+	\item \textbf{Exportación/Importación:} Compatible con colecciones de Postman, Swagger, Insomnia.
+\end{itemize}
+\FloatBarrier
+
+\subsubsection{Ventajas y Desventajas}
+
+\begin{tabular}{|p{7cm}|p{7cm}|}
+	\hline
+	\textbf{Ventajas} & \textbf{Desventajas} \\
+	\hline
+	Combina funciones de Swagger (documentación) y Postman (testing). &
+	Algunas funciones avanzadas requieren suscripción de pago. \\
+	\hline
+	Mock Server integrado para pruebas tempranas. &
+	Menos extendido que Swagger o Postman (menos comunidad y tutoriales). \\
+	\hline
+	Documentación interactiva y personalizable. &
+	Depende de la nube para colaboración completa (aunque tiene versión local). \\
+	\hline
+	Compatible con múltiples formatos de API (REST, GraphQL, WebSocket). & \\
+	\hline
+	Plataforma colaborativa con control de versiones. & \\
+	\hline
+\end{tabular}
+\FloatBarrier
+	\subsubsection{Precios}
+
+\begin{table}[h!]
+	\centering
+	\caption{Planes de Apidog }
+	\begin{tabular}{|p{3cm}|p{10cm}|}
+		\hline
+		\textbf{Plan} & \textbf{Características principales} \\
+		\hline
+		\textbf{Gratis} (\$0) &
+		- Hasta 4 usuarios \\
+		& - Cliente API y pruebas ilimitadas \\
+		& - Documentación básica \\
+		\hline
+		\textbf{Básico} (\$9) &
+		- Usuarios ilimitados \\
+		& - Historial 90 días \\
+		& - 20 proyectos en equipo \\
+		\hline
+		\textbf{Profesional} (\$18) &
+		- Ramas y versiones ilimitadas \\
+		& - Historial 180 días \\
+		& - Soporte prioritario \\
+		\hline
+		\textbf{Empresa} (\$27) &
+		- Seguridad avanzada + SSO \\
+		& - Documentación multi-sitio \\
+		& - Soporte 24/7 \\
+		\hline
+	\end{tabular}
+\end{table}
+\FloatBarrier
+	
+	\subsection {5- Cuadro comparativo herramientas para documentar API Rest}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{4cm}|p{4cm}|p{4cm}|p{4cm}|}
+			\hline
+			\textbf{Característica} & \textbf{Swagger (OpenAPI)} & \textbf{Postman} & \textbf{Apidog} \\
+			\hline
+			URL oficial & \texttt{https://swagger.io/} & \texttt{https://www.postman.com/} & \texttt{https://apidog.com/} \\
+			\hline
+			Portal web interactivo & Sí, permite probar endpoints y ver estructura de peticiones/respuestas & Sí, documentación interactiva basada en colecciones & Sí, documentación interactiva y personalizable \\
+			\hline
+			Compatibilidad & Java, Python, Node.js, Ruby, otros & Cualquier API REST, múltiples lenguajes & OpenAPI 2.0 y 3.0, Swagger, REST, GraphQL, WebSocket \\
+			\hline
+			Protocolos soportados & HTTP/HTTPS & HTTP, HTTPS, WebSocket, GraphQL & HTTP, HTTPS, WebSocket, GraphQL \\
+			\hline
+			Métodos HTTP soportados & GET, POST, PUT, PATCH, DELETE, OPTIONS & GET, POST, PUT, PATCH, DELETE, OPTIONS & GET, POST, PUT, PATCH, DELETE, OPTIONS \\
+			\hline
+			Gestión de entornos & No tan avanzada & Variables globales, locales y de entorno & Variables globales y de entorno (similar a Postman) \\
+			\hline
+			Definición de esquemas & Modelos de datos, autenticación, parámetros de entrada/salida & Colecciones de requests y tests en JavaScript & Soporta Mock Server, validación de endpoints y definiciones OpenAPI \\
+			\hline
+			Documentación automática & Sí, basada en OpenAPI & Sí, basada en colecciones & Sí, basada en definiciones OpenAPI \\
+			\hline
+			Testing y automatización & Limitado a validaciones externas & Sí, scripts de test y reportes automáticos & Sí, scripts de validación y Mock Server integrado \\
+			\hline
+			Integraciones & Depende de herramientas adicionales & CI/CD: Jenkins, GitHub Actions, GitLab CI, etc. & Compatible con colecciones de Postman, Swagger, Insomnia \\
+			\hline
+			Ventajas & Documentación automática y estandarizada. Interfaz interactiva. Facilita colaboración & Interfaz gráfica intuitiva. Compatible con cualquier API REST. Documentación automática. Pruebas automatizadas. Comunidad activa & Combina funciones de Swagger y Postman. Mock Server integrado. Documentación interactiva. Compatible con múltiples formatos. Colaboración y control de versiones \\
+			\hline
+			Limitaciones / Desventajas & Requiere mantener actualizado el esquema OpenAPI. Personalización visual limitada & Consume más recursos que herramientas ligeras. Algunas funciones avanzadas son de pago. Requiere cuenta para compartir colecciones & Algunas funciones avanzadas requieren pago. Menos extendido que Swagger/Postman. Depende de la nube para colaboración completa \\
+			\hline
+			Planes / Precios & N/A & Gratis, Básico, Profesional, Empresa (desde \$0 hasta \$49/usuario/mes) & Gratis, Básico, Profesional, Empresa (desde \$0 hasta \$27/usuario/mes) \\
+			\hline
+		\end{tabular}
+		\caption{Comparativo técnico de herramientas para documentación de APIs REST}
+	\end{table}
+	\FloatBarrier
+	
+	\section{Conclusiones}
+	\printbibliography
+\end {document}
+

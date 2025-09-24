@@ -1,0 +1,1527 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{apidog}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9919b3993b7ffb38a489a1650157cf8c}{%
+           family={Apidog},
+           familyi={A\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{fullhash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{fullhashraw}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{bibnamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorbibnamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authornamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorfullhash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorfullhashraw}{9919b3993b7ffb38a489a1650157cf8c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 19 de septiembre de 2025}
+      \field{title}{Apidog: Plataforma todo-en-uno para APIs}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/
+      \endverb
+    \endentry
+    \entry{cypress_logo_social}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8a3a4b9690f65bb2fd90bbb31a9f935}{%
+           family={{Cypress, Inc.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{fullhash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{fullhashraw}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{bibnamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorbibnamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authornamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorfullhash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorfullhashraw}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cypress Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cypress.io/cypress_logo_social.png
+      \endverb
+      \verb{url}
+      \verb https://www.cypress.io/cypress_logo_social.png
+      \endverb
+    \endentry
+    \entry{apidog_postman}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7de239ec9750ce71d8da253d559fdfc8}{%
+           family={Innocent},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Apidog}%
+      }
+      \strng{namehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{fullhash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{fullhashraw}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{bibnamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorbibnamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authornamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorfullhash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorfullhashraw}{7de239ec9750ce71d8da253d559fdfc8}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Las 5 principales características de Apidog que superan a Postman}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/es/blog/top-5-features-of-apidog-that-outshine-postman-3/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/es/blog/top-5-features-of-apidog-that-outshine-postman-3/
+      \endverb
+    \endentry
+    \entry{formadoresit_postman_ventajas}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab02fceb9689114b1cd1844e456c0695}{%
+           family={Javier},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {FormadoresIT}%
+      }
+      \strng{namehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{fullhash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{fullhashraw}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{bibnamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorbibnamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authornamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorfullhash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorfullhashraw}{ab02fceb9689114b1cd1844e456c0695}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es Postman? ¿Cuáles son sus principales ventajas?}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://formadoresit.es/que-es-postman-cuales-son-sus-principales-ventajas/
+      \endverb
+      \verb{url}
+      \verb https://formadoresit.es/que-es-postman-cuales-son-sus-principales-ventajas/
+      \endverb
+    \endentry
+    \entry{katalon_studio}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f07b31ce6c6bef40335a2a40bafeee8}{%
+           family={{Katalon, Inc.}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{bibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorbibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authornamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Katalon Studio}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.katalon.com/katalon-studio/about-katalon-studio
+      \endverb
+      \verb{url}
+      \verb https://docs.katalon.com/katalon-studio/about-katalon-studio
+      \endverb
+    \endentry
+    \entry{katalon_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f07b31ce6c6bef40335a2a40bafeee8}{%
+           family={{Katalon, Inc.}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Katalon}%
+      }
+      \strng{namehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{bibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorbibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authornamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Katalon Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cms-cdn.katalon.com/Katalon_logo_9dd79e2522.jpeg
+      \endverb
+      \verb{url}
+      \verb https://cms-cdn.katalon.com/Katalon_logo_9dd79e2522.jpeg
+      \endverb
+    \endentry
+    \entry{keepcoding_cypress}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26194352e0623a03d3f4d83606a425cf}{%
+           family={KeepCoding},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{fullhash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{fullhashraw}{26194352e0623a03d3f4d83606a425cf}
+      \strng{bibnamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorbibnamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authornamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorfullhash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorfullhashraw}{26194352e0623a03d3f4d83606a425cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/}}
+      \field{note}{Accedido: 10 de septiembre de 2025}
+      \field{title}{Cypress: La mejor opción para pruebas de software}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+      \verb{url}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+    \endentry
+    \entry{latex_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa874acb7db4f499a02a95d2266308a2}{%
+           family={{LaTeX Project}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Commons}%
+      }
+      \strng{namehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{fullhash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{fullhashraw}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{bibnamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorbibnamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authornamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorfullhash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorfullhashraw}{aa874acb7db4f499a02a95d2266308a2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LaTeX Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png
+      \endverb
+      \verb{url}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png
+      \endverb
+    \endentry
+    \entry{keepcoding_cypress_testing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2d1311cf16451cd83598f0f3def95a1}{%
+           family={Maldonado},
+           familyi={M\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {KeepCoding}%
+      }
+      \strng{namehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{fullhash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{fullhashraw}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{bibnamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorbibnamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authornamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorfullhash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorfullhashraw}{b2d1311cf16451cd83598f0f3def95a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/}}
+      \field{note}{Accedido: 29 de agosto de 2025}
+      \field{title}{Cypress: domina las pruebas automatizadas en aplicaciones web modernas}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+      \verb{url}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+    \endentry
+    \entry{medium_selenium_image}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={{Medium}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{fullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{fullhashraw}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{bibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorfullhashraw}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Imagen}
+      \field{title}{Diagrama de arquitectura de Selenium WebDriver}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
+      \endverb
+      \verb{url}
+      \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
+      \endverb
+    \endentry
+    \entry{apidog_mastering_stripe_api_pt}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab37a22c2fb73f5aafdc1246e3f5826f}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {pt}%
+      }
+      \list{publisher}{1}{%
+        {Apidog}%
+      }
+      \strng{namehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{fullhash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{fullhashraw}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{bibnamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorbibnamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authornamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorfullhash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorfullhashraw}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Entendendo a API Stripe: Um Guia Abrangente}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/pt/blog/mastering-the-stripe-api-pt/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/pt/blog/mastering-the-stripe-api-pt/
+      \endverb
+    \endentry
+    \entry{postman_pricing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f061e1cad5e2783cea0b2976ed2f4c3}{%
+           family={Postman},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{fullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{fullhashraw}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{bibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorbibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authornamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorfullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorfullhashraw}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://www.postman.com/pricing/}}
+      \field{note}{Accedido: 18 de septiembre de 2025}
+      \field{title}{Planes y precios de Postman}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.postman.com/pricing/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/pricing/
+      \endverb
+    \endentry
+    \entry{postman_website}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=827f159e08e537af949c7dc4452dad6b}{%
+           family={Postman},
+           familyi={P\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \strng{bibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorbibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authornamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Postman: API platform for building and using APIs}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postman.com/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/
+      \endverb
+    \endentry
+    \entry{postman_press_media}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=827f159e08e537af949c7dc4452dad6b}{%
+           family={Postman},
+           familyi={P\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \strng{bibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorbibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authornamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Press and Media}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postman.com/company/press-media/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/company/press-media/
+      \endverb
+    \endentry
+    \entry{selenium_documentation}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a99ec6cbb86665f70287da0678dc378}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Selenium},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{fullhash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{fullhashraw}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{bibnamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorbibnamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authornamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorfullhash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorfullhashraw}{5a99ec6cbb86665f70287da0678dc378}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Documentación oficial de Selenium}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.selenium.dev/documentation/
+      \endverb
+      \verb{url}
+      \verb https://www.selenium.dev/documentation/
+      \endverb
+    \endentry
+    \entry{pytest_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5505fff96e877a74fa0093a92766c2f}{%
+           family={{Pytest Project}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Commons}%
+      }
+      \strng{namehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{fullhash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{fullhashraw}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{bibnamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorbibnamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authornamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorfullhash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorfullhashraw}{c5505fff96e877a74fa0093a92766c2f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pytest Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png
+      \endverb
+      \verb{url}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png
+      \endverb
+    \endentry
+    \entry{qalified_selenium_testing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6526954e9503b9cf20ec9c8b6836d01d}{%
+           family={QAlified},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{fullhash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{fullhashraw}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{bibnamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorbibnamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authornamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorfullhash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorfullhashraw}{6526954e9503b9cf20ec9c8b6836d01d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a Selenium Testing}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://qalified.com/es/blog/introduccion-a-selenium-testing/
+      \endverb
+      \verb{url}
+      \verb https://qalified.com/es/blog/introduccion-a-selenium-testing/
+      \endverb
+    \endentry
+    \entry{circleci_pytest_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04dc8a471fa763be89cdd9b520e2c6b5}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {CircleCI}%
+      }
+      \strng{namehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{fullhash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{fullhashraw}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{bibnamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorbibnamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authornamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorfullhash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorfullhashraw}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pytest: Getting started with automated testing for Python}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://circleci.com/blog/pytest-python-testing/
+      \endverb
+      \verb{url}
+      \verb https://circleci.com/blog/pytest-python-testing/
+      \endverb
+    \endentry
+    \entry{swagger_logo_assertible}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19b7638648726f5205c14d868981a75d}{%
+           family={{Swagger / SmartBear Software}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Swagger / SmartBear}%
+      }
+      \strng{namehash}{19b7638648726f5205c14d868981a75d}
+      \strng{fullhash}{19b7638648726f5205c14d868981a75d}
+      \strng{fullhashraw}{19b7638648726f5205c14d868981a75d}
+      \strng{bibnamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorbibnamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authornamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorfullhash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorfullhashraw}{19b7638648726f5205c14d868981a75d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Swagger Logo Horizontal [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg
+      \endverb
+      \verb{url}
+      \verb https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{apidog}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9919b3993b7ffb38a489a1650157cf8c}{%
+           family={Apidog},
+           familyi={A\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{fullhash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{fullhashraw}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{bibnamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorbibnamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authornamehash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorfullhash}{9919b3993b7ffb38a489a1650157cf8c}
+      \strng{authorfullhashraw}{9919b3993b7ffb38a489a1650157cf8c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 19 de septiembre de 2025}
+      \field{title}{Apidog: Plataforma todo-en-uno para APIs}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/
+      \endverb
+    \endentry
+    \entry{cypress_logo_social}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8a3a4b9690f65bb2fd90bbb31a9f935}{%
+           family={{Cypress, Inc.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{fullhash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{fullhashraw}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{bibnamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorbibnamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authornamehash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorfullhash}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \strng{authorfullhashraw}{a8a3a4b9690f65bb2fd90bbb31a9f935}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cypress Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cypress.io/cypress_logo_social.png
+      \endverb
+      \verb{url}
+      \verb https://www.cypress.io/cypress_logo_social.png
+      \endverb
+    \endentry
+    \entry{apidog_postman}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7de239ec9750ce71d8da253d559fdfc8}{%
+           family={Innocent},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Apidog}%
+      }
+      \strng{namehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{fullhash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{fullhashraw}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{bibnamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorbibnamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authornamehash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorfullhash}{7de239ec9750ce71d8da253d559fdfc8}
+      \strng{authorfullhashraw}{7de239ec9750ce71d8da253d559fdfc8}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Las 5 principales características de Apidog que superan a Postman}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/es/blog/top-5-features-of-apidog-that-outshine-postman-3/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/es/blog/top-5-features-of-apidog-that-outshine-postman-3/
+      \endverb
+    \endentry
+    \entry{formadoresit_postman_ventajas}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab02fceb9689114b1cd1844e456c0695}{%
+           family={Javier},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {FormadoresIT}%
+      }
+      \strng{namehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{fullhash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{fullhashraw}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{bibnamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorbibnamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authornamehash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorfullhash}{ab02fceb9689114b1cd1844e456c0695}
+      \strng{authorfullhashraw}{ab02fceb9689114b1cd1844e456c0695}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es Postman? ¿Cuáles son sus principales ventajas?}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://formadoresit.es/que-es-postman-cuales-son-sus-principales-ventajas/
+      \endverb
+      \verb{url}
+      \verb https://formadoresit.es/que-es-postman-cuales-son-sus-principales-ventajas/
+      \endverb
+    \endentry
+    \entry{katalon_studio}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f07b31ce6c6bef40335a2a40bafeee8}{%
+           family={{Katalon, Inc.}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{bibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorbibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authornamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Katalon Studio}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.katalon.com/katalon-studio/about-katalon-studio
+      \endverb
+      \verb{url}
+      \verb https://docs.katalon.com/katalon-studio/about-katalon-studio
+      \endverb
+    \endentry
+    \entry{katalon_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f07b31ce6c6bef40335a2a40bafeee8}{%
+           family={{Katalon, Inc.}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Katalon}%
+      }
+      \strng{namehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{fullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{bibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorbibnamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authornamehash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhash}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \strng{authorfullhashraw}{0f07b31ce6c6bef40335a2a40bafeee8}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Katalon Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cms-cdn.katalon.com/Katalon_logo_9dd79e2522.jpeg
+      \endverb
+      \verb{url}
+      \verb https://cms-cdn.katalon.com/Katalon_logo_9dd79e2522.jpeg
+      \endverb
+    \endentry
+    \entry{keepcoding_cypress}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26194352e0623a03d3f4d83606a425cf}{%
+           family={KeepCoding},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{fullhash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{fullhashraw}{26194352e0623a03d3f4d83606a425cf}
+      \strng{bibnamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorbibnamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authornamehash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorfullhash}{26194352e0623a03d3f4d83606a425cf}
+      \strng{authorfullhashraw}{26194352e0623a03d3f4d83606a425cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/}}
+      \field{note}{Accedido: 10 de septiembre de 2025}
+      \field{title}{Cypress: La mejor opción para pruebas de software}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+      \verb{url}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+    \endentry
+    \entry{latex_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa874acb7db4f499a02a95d2266308a2}{%
+           family={{LaTeX Project}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Commons}%
+      }
+      \strng{namehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{fullhash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{fullhashraw}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{bibnamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorbibnamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authornamehash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorfullhash}{aa874acb7db4f499a02a95d2266308a2}
+      \strng{authorfullhashraw}{aa874acb7db4f499a02a95d2266308a2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LaTeX Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png
+      \endverb
+      \verb{url}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png
+      \endverb
+    \endentry
+    \entry{keepcoding_cypress_testing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2d1311cf16451cd83598f0f3def95a1}{%
+           family={Maldonado},
+           familyi={M\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {KeepCoding}%
+      }
+      \strng{namehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{fullhash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{fullhashraw}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{bibnamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorbibnamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authornamehash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorfullhash}{b2d1311cf16451cd83598f0f3def95a1}
+      \strng{authorfullhashraw}{b2d1311cf16451cd83598f0f3def95a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/}}
+      \field{note}{Accedido: 29 de agosto de 2025}
+      \field{title}{Cypress: domina las pruebas automatizadas en aplicaciones web modernas}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+      \verb{url}
+      \verb https://keepcoding.io/blog/cypress-mejor-opcion-pruebas-de-software/
+      \endverb
+    \endentry
+    \entry{medium_selenium_image}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={{Medium}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{fullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{fullhashraw}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{bibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{authorfullhashraw}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Imagen}
+      \field{title}{Diagrama de arquitectura de Selenium WebDriver}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
+      \endverb
+      \verb{url}
+      \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
+      \endverb
+    \endentry
+    \entry{apidog_mastering_stripe_api_pt}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab37a22c2fb73f5aafdc1246e3f5826f}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {pt}%
+      }
+      \list{publisher}{1}{%
+        {Apidog}%
+      }
+      \strng{namehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{fullhash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{fullhashraw}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{bibnamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorbibnamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authornamehash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorfullhash}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \strng{authorfullhashraw}{ab37a22c2fb73f5aafdc1246e3f5826f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Entendendo a API Stripe: Um Guia Abrangente}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://apidog.com/pt/blog/mastering-the-stripe-api-pt/
+      \endverb
+      \verb{url}
+      \verb https://apidog.com/pt/blog/mastering-the-stripe-api-pt/
+      \endverb
+    \endentry
+    \entry{postman_pricing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f061e1cad5e2783cea0b2976ed2f4c3}{%
+           family={Postman},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{fullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{fullhashraw}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{bibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorbibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authornamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorfullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorfullhashraw}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{En \url{https://www.postman.com/pricing/}}
+      \field{note}{Accedido: 18 de septiembre de 2025}
+      \field{title}{Planes y precios de Postman}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.postman.com/pricing/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/pricing/
+      \endverb
+    \endentry
+    \entry{postman_website}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=827f159e08e537af949c7dc4452dad6b}{%
+           family={Postman},
+           familyi={P\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \strng{bibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorbibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authornamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Postman: API platform for building and using APIs}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postman.com/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/
+      \endverb
+    \endentry
+    \entry{postman_press_media}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=827f159e08e537af949c7dc4452dad6b}{%
+           family={Postman},
+           familyi={P\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{fullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \strng{bibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorbibnamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authornamehash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhash}{827f159e08e537af949c7dc4452dad6b}
+      \strng{authorfullhashraw}{827f159e08e537af949c7dc4452dad6b}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Press and Media}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postman.com/company/press-media/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/company/press-media/
+      \endverb
+    \endentry
+    \entry{selenium_documentation}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a99ec6cbb86665f70287da0678dc378}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Selenium},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{fullhash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{fullhashraw}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{bibnamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorbibnamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authornamehash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorfullhash}{5a99ec6cbb86665f70287da0678dc378}
+      \strng{authorfullhashraw}{5a99ec6cbb86665f70287da0678dc378}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Documentación oficial de Selenium}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.selenium.dev/documentation/
+      \endverb
+      \verb{url}
+      \verb https://www.selenium.dev/documentation/
+      \endverb
+    \endentry
+    \entry{pytest_logo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5505fff96e877a74fa0093a92766c2f}{%
+           family={{Pytest Project}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Commons}%
+      }
+      \strng{namehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{fullhash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{fullhashraw}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{bibnamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorbibnamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authornamehash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorfullhash}{c5505fff96e877a74fa0093a92766c2f}
+      \strng{authorfullhashraw}{c5505fff96e877a74fa0093a92766c2f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pytest Logo [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png
+      \endverb
+      \verb{url}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png
+      \endverb
+    \endentry
+    \entry{qalified_selenium_testing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6526954e9503b9cf20ec9c8b6836d01d}{%
+           family={QAlified},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{fullhash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{fullhashraw}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{bibnamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorbibnamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authornamehash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorfullhash}{6526954e9503b9cf20ec9c8b6836d01d}
+      \strng{authorfullhashraw}{6526954e9503b9cf20ec9c8b6836d01d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a Selenium Testing}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://qalified.com/es/blog/introduccion-a-selenium-testing/
+      \endverb
+      \verb{url}
+      \verb https://qalified.com/es/blog/introduccion-a-selenium-testing/
+      \endverb
+    \endentry
+    \entry{circleci_pytest_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04dc8a471fa763be89cdd9b520e2c6b5}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {CircleCI}%
+      }
+      \strng{namehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{fullhash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{fullhashraw}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{bibnamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorbibnamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authornamehash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorfullhash}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \strng{authorfullhashraw}{04dc8a471fa763be89cdd9b520e2c6b5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pytest: Getting started with automated testing for Python}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://circleci.com/blog/pytest-python-testing/
+      \endverb
+      \verb{url}
+      \verb https://circleci.com/blog/pytest-python-testing/
+      \endverb
+    \endentry
+    \entry{swagger_logo_assertible}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19b7638648726f5205c14d868981a75d}{%
+           family={{Swagger / SmartBear Software}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Swagger / SmartBear}%
+      }
+      \strng{namehash}{19b7638648726f5205c14d868981a75d}
+      \strng{fullhash}{19b7638648726f5205c14d868981a75d}
+      \strng{fullhashraw}{19b7638648726f5205c14d868981a75d}
+      \strng{bibnamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorbibnamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authornamehash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorfullhash}{19b7638648726f5205c14d868981a75d}
+      \strng{authorfullhashraw}{19b7638648726f5205c14d868981a75d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Swagger Logo Horizontal [Imagen]}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg
+      \endverb
+      \verb{url}
+      \verb https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
