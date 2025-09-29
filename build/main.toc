@@ -25,18 +25,19 @@
 \contentsline {subsubsection}{Ventajas y desventajas}{16}{section*.40}%
 \contentsline {subsection}{Sphinx}{16}{section*.42}%
 \contentsline {subsubsection}{Características}{17}{section*.44}%
-\contentsline {section}{Herramientas para documentar APIs REST.}{17}{section*.45}%
-\contentsline {subsection}{1. Swagger (OpenAPI)}{17}{section*.46}%
-\contentsline {subsubsection}{Características}{17}{section*.48}%
-\contentsline {subsubsection}{Ventajas y Limitaciones}{18}{section*.49}%
-\contentsline {paragraph}{Ventajas:}{18}{section*.50}%
-\contentsline {paragraph}{Limitaciones:}{18}{section*.51}%
-\contentsline {subsection}{2. Postman }{19}{section*.52}%
-\contentsline {subsubsection}{Características Técnicas}{19}{section*.54}%
-\contentsline {subsubsection}{Ventajas y desventajas}{20}{section*.56}%
-\contentsline {subsubsection}{Planes de postman}{21}{section*.58}%
-\contentsline {subsection}{3. Apidog }{22}{section*.60}%
-\contentsline {subsubsection}{Ventajas y Desventajas}{24}{section*.63}%
-\contentsline {subsubsection}{Precios}{24}{section*.64}%
-\contentsline {subsection}{5- Cuadro comparativo herramientas para documentar API Rest}{25}{section*.66}%
-\contentsline {section}{Conclusiones}{27}{section*.68}%
+\contentsline {subsubsection}{Ventajas y desventajas}{17}{section*.46}%
+\contentsline {section}{Herramientas para documentar APIs REST.}{18}{section*.48}%
+\contentsline {subsection}{1. Swagger (OpenAPI)}{18}{section*.49}%
+\contentsline {subsubsection}{Características}{19}{section*.51}%
+\contentsline {subsubsection}{Ventajas y Limitaciones}{19}{section*.52}%
+\contentsline {paragraph}{Ventajas:}{19}{section*.53}%
+\contentsline {paragraph}{Limitaciones:}{19}{section*.54}%
+\contentsline {subsection}{2. Postman }{20}{section*.55}%
+\contentsline {subsubsection}{Características Técnicas}{20}{section*.57}%
+\contentsline {subsubsection}{Ventajas y desventajas}{21}{section*.59}%
+\contentsline {subsubsection}{Planes de postman}{22}{section*.61}%
+\contentsline {subsection}{3. Apidog }{23}{section*.63}%
+\contentsline {subsubsection}{Ventajas y Desventajas}{25}{section*.66}%
+\contentsline {subsubsection}{Precios}{25}{section*.67}%
+\contentsline {subsection}{5- Cuadro comparativo herramientas para documentar API Rest}{26}{section*.69}%
+\contentsline {section}{Conclusiones}{28}{section*.71}%

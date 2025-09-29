@@ -449,14 +449,14 @@
 
 %tercera herramienta
 \subsection{Sphinx}
-	Sphinx es una herramienta para la creación de documentación que se originó en el entorno de Python. Permite la entrada de archivos en Markdown o reStructuredText (reST) y es capaz de crear documentación en diferentes formatos, como ePub, PDF  LaTeX, HTML, entre otros. Está particularmente enfocado en la documentación técnica y los manuales de usuario, proporcionando resultados estructurados y profesionales.\\
+	Sphinx es una herramienta para la creación de documentación que se originó en el entorno de Python. Permite la entrada de archivos en Markdown o reStructuredText (reST) y es capaz de crear documentación en diferentes formatos, como ePub, PDF  LaTeX, HTML, entre otros. Está particularmente enfocado en la documentación técnica y los manuales de usuario, proporcionando resultados estructurados y profesionales.\cite{sphinx_doc}\\
 	URL sito oficial: 
 	\href{https://www.sphinx-doc.org/en/master}{Sphinx}
 	%imagen 
 	\begin{figure}[h!]
 		\centering
 		\includegraphics[width=0.3\textwidth]{sphinx_logo.png}
-		\caption{Logo Sphinx}\cite{postman_press_media}
+		\caption{Logo Sphinx}\cite{sphinx_doc}
 		\label{fig:Sphinx} 
 	\end{figure}
 
@@ -468,7 +468,29 @@
 		\item Integración con sistemas de control de versiones (Git) y flujos CI/CD.
 		\item Extensible mediante extensiones (plugins) para personalizar el estilo y funcionalidades.
 		\item Ideal para documentación de proyectos de software y APIs.
-		\end{itemize}
+	\end{itemize}
+
+	\subsubsection*{Plataformas soportadas}
+		\begin{itemize}
+		\item Multiplataforma: Windows, Linux, macOS.
+		\item Necesita Python instalado para funcionar.
+	\end{itemize}
+
+	\subsubsection{Ventajas y desventajas}\cite{molyneaux2024python_docs}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|p{5cm}|p{9cm}|}
+			\hline
+		\textbf{Ventajas} & \textbf{Desventajas} \\ \hline
+		Genera documentación profesional con múltiples formatos de salida. & Requiere aprendizaje de reStructuredText (aunque soporta Markdown limitado). \\ \hline
+		Muy flexible y extensible mediante plugins. & Configuración inicial puede ser compleja para proyectos grandes. \\ \hline
+		Ideal para documentación técnica compleja con referencias cruzadas. & \\ \hline
+		Integración con LaTeX permite PDFs de calidad tipográfica. & \\ \hline
+		\end{tabular}
+		\caption{Ventajas y desventajas sphinx doc}
+		
+	\end{table}
+	\FloatBarrier
 
 
 
@@ -550,6 +572,7 @@
 		\label{tab:caracteristicas_tecnicas}
 	\end{table}
 	\FloatBarrier
+
 	\subsubsection{Ventajas y desventajas}\cite{formadoresit_postman_ventajas}
 	
 	\begin{table}[h!]

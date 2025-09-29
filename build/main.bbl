@@ -436,6 +436,48 @@
       \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
       \endverb
     \endentry
+    \entry{molyneaux2024python_docs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4df0295fe5067cfc31dee3c680b43863}{%
+           family={Molyneaux},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Python Snacks}%
+      }
+      \strng{namehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{fullhash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{fullhashraw}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{bibnamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorbibnamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authornamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorfullhash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorfullhashraw}{4df0295fe5067cfc31dee3c680b43863}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Accedido el 22 de septiembre de 2025}
+      \field{title}{Python Documentation: MkDocs vs Sphinx}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pythonsnacks.com/p/python-documentation-generator
+      \endverb
+      \verb{url}
+      \verb https://www.pythonsnacks.com/p/python-documentation-generator
+      \endverb
+    \endentry
     \entry{apidog_mastering_stripe_api_pt}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ab37a22c2fb73f5aafdc1246e3f5826f}{%
@@ -669,6 +711,43 @@
       \endverb
       \verb{url}
       \verb https://www.selenium.dev/documentation/
+      \endverb
+    \endentry
+    \entry{sphinx_doc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4953ee7c4c6c4b12cc4b0961ce07150d}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Sphinx\bibnamedelima Documentation},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{fullhash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{fullhashraw}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{bibnamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorbibnamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authornamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorfullhash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorfullhashraw}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Recuperado el 22 de septiembre de 2025}
+      \field{title}{Sphinx — documentación principal}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sphinx-doc.org/en/master/
+      \endverb
+      \verb{url}
+      \verb https://www.sphinx-doc.org/en/master/
       \endverb
     \endentry
     \entry{pytest_logo}{online}{}{}
@@ -1250,6 +1329,48 @@
       \verb https://miro.medium.com/1*ZkMRhrarezTQospozgUtLg.png
       \endverb
     \endentry
+    \entry{molyneaux2024python_docs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4df0295fe5067cfc31dee3c680b43863}{%
+           family={Molyneaux},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Python Snacks}%
+      }
+      \strng{namehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{fullhash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{fullhashraw}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{bibnamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorbibnamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authornamehash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorfullhash}{4df0295fe5067cfc31dee3c680b43863}
+      \strng{authorfullhashraw}{4df0295fe5067cfc31dee3c680b43863}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Accedido el 22 de septiembre de 2025}
+      \field{title}{Python Documentation: MkDocs vs Sphinx}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pythonsnacks.com/p/python-documentation-generator
+      \endverb
+      \verb{url}
+      \verb https://www.pythonsnacks.com/p/python-documentation-generator
+      \endverb
+    \endentry
     \entry{apidog_mastering_stripe_api_pt}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ab37a22c2fb73f5aafdc1246e3f5826f}{%
@@ -1483,6 +1604,43 @@
       \endverb
       \verb{url}
       \verb https://www.selenium.dev/documentation/
+      \endverb
+    \endentry
+    \entry{sphinx_doc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4953ee7c4c6c4b12cc4b0961ce07150d}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Sphinx\bibnamedelima Documentation},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{fullhash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{fullhashraw}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{bibnamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorbibnamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authornamehash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorfullhash}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \strng{authorfullhashraw}{4953ee7c4c6c4b12cc4b0961ce07150d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Recuperado el 22 de septiembre de 2025}
+      \field{title}{Sphinx — documentación principal}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sphinx-doc.org/en/master/
+      \endverb
+      \verb{url}
+      \verb https://www.sphinx-doc.org/en/master/
       \endverb
     \endentry
     \entry{pytest_logo}{online}{}{}

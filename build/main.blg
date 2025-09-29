@@ -1,0 +1,20 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'build/main.blg'
+[115] biber-MSWIN64:342> INFO - === 
+[157] Biber.pm:421> INFO - Reading 'build/main.bcf'
+[291] Biber.pm:1002> INFO - Found 23 citekeys in bib section 0
+[311] Biber.pm:4487> INFO - Processing section 0
+[323] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[377] bibtex.pm:1713> INFO - LaTeX decoding ...
+[402] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[529] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[529] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[530] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[566] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[566] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[566] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[589] bbl.pm:676> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[611] bbl.pm:779> INFO - Output to build/main.bbl
+[611] Biber.pm:132> WARN - legacy month field 'mayo' in entry 'molyneaux2024python_docs' is not an integer - this will probably not sort properly.
+[612] Biber.pm:132> WARN - legacy month field 'julio' in entry 'apidog_postman' is not an integer - this will probably not sort properly.
+[612] Biber.pm:134> INFO - WARNINGS: 2
