@@ -23,19 +23,20 @@
 \contentsline {subsection}{AsciiDoc}{15}{section*.37}%
 \contentsline {subsubsection}{Características principales}{15}{section*.39}%
 \contentsline {subsubsection}{Ventajas y desventajas}{16}{section*.40}%
-\contentsline {section}{Sphinx}{16}{section*.42}%
-\contentsline {section}{Herramientas para documentar APIs REST.}{16}{section*.43}%
-\contentsline {subsection}{1. Swagger (OpenAPI)}{16}{section*.44}%
-\contentsline {subsubsection}{Características}{17}{section*.46}%
-\contentsline {subsubsection}{Ventajas y Limitaciones}{17}{section*.47}%
-\contentsline {paragraph}{Ventajas:}{17}{section*.48}%
-\contentsline {paragraph}{Limitaciones:}{18}{section*.49}%
-\contentsline {subsection}{2. Postman }{18}{section*.50}%
-\contentsline {subsubsection}{Características Técnicas}{18}{section*.52}%
-\contentsline {subsubsection}{Ventajas y desventajas}{19}{section*.54}%
-\contentsline {subsubsection}{Planes de postman}{20}{section*.56}%
-\contentsline {subsection}{3. Apidog }{21}{section*.58}%
-\contentsline {subsubsection}{Ventajas y Desventajas}{23}{section*.61}%
-\contentsline {subsubsection}{Precios}{23}{section*.62}%
-\contentsline {subsection}{5- Cuadro comparativo herramientas para documentar API Rest}{24}{section*.64}%
-\contentsline {section}{Conclusiones}{26}{section*.66}%
+\contentsline {subsection}{Sphinx}{16}{section*.42}%
+\contentsline {subsubsection}{Características}{17}{section*.44}%
+\contentsline {section}{Herramientas para documentar APIs REST.}{17}{section*.45}%
+\contentsline {subsection}{1. Swagger (OpenAPI)}{17}{section*.46}%
+\contentsline {subsubsection}{Características}{17}{section*.48}%
+\contentsline {subsubsection}{Ventajas y Limitaciones}{18}{section*.49}%
+\contentsline {paragraph}{Ventajas:}{18}{section*.50}%
+\contentsline {paragraph}{Limitaciones:}{18}{section*.51}%
+\contentsline {subsection}{2. Postman }{19}{section*.52}%
+\contentsline {subsubsection}{Características Técnicas}{19}{section*.54}%
+\contentsline {subsubsection}{Ventajas y desventajas}{20}{section*.56}%
+\contentsline {subsubsection}{Planes de postman}{21}{section*.58}%
+\contentsline {subsection}{3. Apidog }{22}{section*.60}%
+\contentsline {subsubsection}{Ventajas y Desventajas}{24}{section*.63}%
+\contentsline {subsubsection}{Precios}{24}{section*.64}%
+\contentsline {subsection}{5- Cuadro comparativo herramientas para documentar API Rest}{25}{section*.66}%
+\contentsline {section}{Conclusiones}{27}{section*.68}%
