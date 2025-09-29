@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.10)  23 SEP 2025 21:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.10)  23 SEP 2025 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1014,7 +1014,7 @@ Package biblatex Info: ... file 'main.bbl' found.
  (c:\Users\Gio\Desktop\prueba\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 40.
 Package biblatex Info: Reference segment=0 on input line 40.
-<./IMG/UES.jpg, id=150, 250.9375pt x 313.17pt>
+<./IMG/UES.jpg, id=158, 250.9375pt x 313.17pt>
 File: ./IMG/UES.jpg Graphic file (type jpg)
 <use ./IMG/UES.jpg>
 Package pdftex.def Info: ./IMG/UES.jpg  used on input line 55.
@@ -1058,7 +1058,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 [3]
-<./IMG/selenium.png, id=205, 1204.5pt x 624.3325pt>
+<./IMG/selenium.png, id=215, 1204.5pt x 624.3325pt>
 File: ./IMG/selenium.png Graphic file (type png)
 <use ./IMG/selenium.png>
 Package pdftex.def Info: ./IMG/selenium.png  used on input line 111.
@@ -1082,7 +1082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--177
 []|\T1/lmr/m/n/12 Arquitectura ba-sa-da en
  []
 
-<./IMG/pytest.png, id=231, 2055.68pt x 2055.68pt>
+<./IMG/pytest.png, id=241, 2055.68pt x 2055.68pt>
 File: ./IMG/pytest.png Graphic file (type png)
 <use ./IMG/pytest.png>
 Package pdftex.def Info: ./IMG/pytest.png  used on input line 186.
@@ -1101,7 +1101,7 @@ Underfull \vbox (badness 1057) has occurred while \output is active []
 
 
 [7 <./IMG/pytest.png>]
-<./IMG/katalon.jpeg, id=251, 1204.5pt x 630.355pt>
+<./IMG/katalon.jpeg, id=261, 1204.5pt x 630.355pt>
 File: ./IMG/katalon.jpeg Graphic file (type jpg)
 <use ./IMG/katalon.jpeg>
 Package pdftex.def Info: ./IMG/katalon.jpeg  used on input line 214.
@@ -1122,7 +1122,7 @@ Underfull \vbox (badness 1701) has occurred while \output is active []
 
 
 [9]
-<./IMG/cypress.png, id=268, 262.0992pt x 106.2369pt>
+<./IMG/cypress.png, id=278, 262.0992pt x 106.2369pt>
 File: ./IMG/cypress.png Graphic file (type png)
 <use ./IMG/cypress.png>
 Package pdftex.def Info: ./IMG/cypress.png  used on input line 262.
@@ -1357,10 +1357,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [12]
-<./IMG/latex.png, id=294, 2569.6pt x 1071.00125pt>
+<./IMG/latex.png, id=304, 2569.6pt x 1071.00125pt>
 File: ./IMG/latex.png Graphic file (type png)
 <use ./IMG/latex.png>
-Package pdftex.def Info: ./IMG/latex.png  used on input line 365.
+Package pdftex.def Info: ./IMG/latex.png  used on input line 366.
 (pdftex.def)             Requested size: 140.92793pt x 58.73366pt.
 
 
@@ -1374,23 +1374,35 @@ Overfull \vbox (26.64702pt too high) has occurred while \output is active []
 [13]
 
 [14 <./IMG/latex.png>]
+<./IMG/asccidoctor.png, id=331, 1204.5pt x 677.53125pt>
+File: ./IMG/asccidoctor.png Graphic file (type png)
+<use ./IMG/asccidoctor.png>
+Package pdftex.def Info: ./IMG/asccidoctor.png  used on input line 413.
+(pdftex.def)             Requested size: 140.92793pt x 79.2636pt.
 
-[15]
-<./IMG/swagger.jpeg, id=327, 602.25pt x 225.84375pt>
+
+[15 <./IMG/asccidoctor.png>]
+<./IMG/swagger.jpeg, id=345, 602.25pt x 225.84375pt>
 File: ./IMG/swagger.jpeg Graphic file (type jpg)
 <use ./IMG/swagger.jpeg>
-Package pdftex.def Info: ./IMG/swagger.jpeg  used on input line 427.
+Package pdftex.def Info: ./IMG/swagger.jpeg  used on input line 462.
 (pdftex.def)             Requested size: 140.92793pt x 52.84584pt.
 
 
-[16 <./IMG/swagger.jpeg>]
-<./IMG/postman.png, id=338, 409.53pt x 123.46124pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[16]
+
+[17 <./IMG/swagger.jpeg>]
+<./IMG/postman.png, id=363, 409.53pt x 123.46124pt>
 File: ./IMG/postman.png Graphic file (type png)
 <use ./IMG/postman.png>
-Package pdftex.def Info: ./IMG/postman.png  used on input line 464.
+Package pdftex.def Info: ./IMG/postman.png  used on input line 499.
 (pdftex.def)             Requested size: 140.92793pt x 42.48679pt.
 
-Underfull \hbox (badness 1997) in paragraph at lines 477--477
+Underfull \hbox (badness 1997) in paragraph at lines 512--512
 []|\T1/lmr/m/n/12 GET, POST, PUT, PATCH, DE-LE-TE, OP-
  []
 
@@ -1399,33 +1411,33 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[17 <./IMG/postman.png>]
-Underfull \hbox (badness 1418) in paragraph at lines 498--498
+[18 <./IMG/postman.png>]
+Underfull \hbox (badness 1418) in paragraph at lines 533--533
 []|\T1/lmr/m/n/12 Compatible con cual-quier API
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
 []|\T1/lmr/m/n/12 Requiere cuen-ta on-li-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
 \T1/lmr/m/n/12 pa-ra com-par-tir co-lec-cio-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\T1/lmr/m/n/12 Documentación au-to-má-ti-ca a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\T1/lmr/m/n/12 Algunas fun-cio-nes avan-za-das
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 499--499
+Underfull \hbox (badness 3068) in paragraph at lines 534--534
 \T1/lmr/m/n/12 (mo-ni-to-ri-za-ción, API moc-king,
  []
 
@@ -1434,33 +1446,33 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
 []|\T1/lmr/bx/n/12 Básico
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 522--522
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
 \T1/lmr/m/n/12 ($14/usua-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--527
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
 []|\T1/lmr/bx/n/12 Profesional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--527
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
 \T1/lmr/m/n/12 ($29/usua-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--532
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
 []|\T1/lmr/bx/n/12 Empresa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--532
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
 \T1/lmr/m/n/12 ($49/usua-
  []
 
@@ -1469,21 +1481,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[19]
+[20]
 Underfull \vbox (badness 2486) has occurred while \output is active []
 
 
 
-[20]
-<./IMG/apidog.png, id=372, 1606.0pt x 592.2125pt>
+[21]
+<./IMG/apidog.png, id=396, 1606.0pt x 592.2125pt>
 File: ./IMG/apidog.png Graphic file (type png)
 <use ./IMG/apidog.png>
-Package pdftex.def Info: ./IMG/apidog.png  used on input line 549.
+Package pdftex.def Info: ./IMG/apidog.png  used on input line 584.
 (pdftex.def)             Requested size: 140.92793pt x 51.95943pt.
 
 
-[21 <./IMG/apidog.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[22 <./IMG/apidog.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 644--644
 []|\T1/lmr/bx/n/12 Profesional
  []
 
@@ -1492,255 +1504,255 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[22]
-Underfull \hbox (badness 6559) in paragraph at lines 628--628
+[23]
+Underfull \hbox (badness 6559) in paragraph at lines 663--663
 []|\T1/lmr/bx/n/12 Swagger (Ope-nA-
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 630.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 665.
 (C:\Users\Gio\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (3.51404pt too wide) in paragraph at lines 630--630
+Overfull \hbox (3.51404pt too wide) in paragraph at lines 665--665
 []|\T1/lmtt/m/n/12 https://swagger.io/| 
  []
 
 
-Overfull \hbox (34.38905pt too wide) in paragraph at lines 630--630
+Overfull \hbox (34.38905pt too wide) in paragraph at lines 665--665
 []|\T1/lmtt/m/n/12 https://www.postman.com/| 
  []
 
 
-Overfull \hbox (3.51404pt too wide) in paragraph at lines 630--631
+Overfull \hbox (3.51404pt too wide) in paragraph at lines 665--666
 []|\T1/lmtt/m/n/12 https://apidog.com/| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 632--632
+Underfull \hbox (badness 10000) in paragraph at lines 667--667
 []|\T1/lmr/m/n/12 Sí, per-mi-te pro-bar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 632--632
+Underfull \hbox (badness 10000) in paragraph at lines 667--667
 \T1/lmr/m/n/12 end-points y ver
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 632--632
+Underfull \hbox (badness 4752) in paragraph at lines 667--667
 \T1/lmr/m/n/12 ter-ac-ti-va ba-sa-da en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--634
+Underfull \hbox (badness 10000) in paragraph at lines 669--669
 []|\T1/lmr/m/n/12 Java, Python, No-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 634--635
+Underfull \hbox (badness 1292) in paragraph at lines 669--670
 []|\T1/lmr/m/n/12 OpenAPI 2.0 y 3.0,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
 \T1/lmr/m/n/12 Swag-ger, REST,
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 638--638
+Underfull \hbox (badness 4543) in paragraph at lines 673--673
 []|\T1/lmr/m/n/12 Métodos HTTP so-
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 638--638
+Underfull \hbox (badness 3690) in paragraph at lines 673--673
 []|\T1/lmr/m/n/12 GET, POST, PUT,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--638
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
 \T1/lmr/m/n/12 PATCH, DE-LE-TE,
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 638--638
+Underfull \hbox (badness 3690) in paragraph at lines 673--673
 []|\T1/lmr/m/n/12 GET, POST, PUT,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--638
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
 \T1/lmr/m/n/12 PATCH, DE-LE-TE,
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 638--639
+Underfull \hbox (badness 3690) in paragraph at lines 673--674
 []|\T1/lmr/m/n/12 GET, POST, PUT,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
 \T1/lmr/m/n/12 PATCH, DE-LE-TE,
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 640--641
+Underfull \hbox (badness 3000) in paragraph at lines 675--676
 []|\T1/lmr/m/n/12 Variables glo-ba-les y
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 642--642
+Underfull \hbox (badness 2269) in paragraph at lines 677--677
 []|\T1/lmr/m/n/12 Definición de es-que-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--642
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
 []|\T1/lmr/m/n/12 Modelos de da-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--642
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
 \T1/lmr/m/n/12 tos, au-ten-ti-ca-ción,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--642
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
 []|\T1/lmr/m/n/12 Colecciones de re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--642
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
 \T1/lmr/m/n/12 quests y tests en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--643
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
 \T1/lmr/m/n/12 va-li-da-ción de end-
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 642--643
+Underfull \hbox (badness 1454) in paragraph at lines 677--678
 \T1/lmr/m/n/12 points y de-fi-ni-cio-nes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 []|\T1/lmr/m/n/12 Depende de he-rra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 []|\T1/lmr/m/n/12 CI/CD: Jen-kins,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
 \T1/lmr/m/n/12 GitHub Ac-tions,
  []
 
 
-Underfull \hbox (badness 4492) in paragraph at lines 648--649
+Underfull \hbox (badness 4492) in paragraph at lines 683--684
 []|\T1/lmr/m/n/12 Compatible con co-
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 650--650
+Underfull \hbox (badness 1895) in paragraph at lines 685--685
 \T1/lmr/m/n/12 má-ti-ca. Prue-bas au-
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 650--651
+Underfull \hbox (badness 1406) in paragraph at lines 685--686
 \T1/lmr/m/n/12 Swag-ger y Post-man.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \T1/lmr/m/n/12 do. Do-cu-men-ta-ción
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \T1/lmr/m/n/12 in-ter-ac-ti-va. Com-pa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \T1/lmr/m/n/12 ti-ble con múl-ti-ples
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
 \T1/lmr/m/n/12 for-ma-tos. Co-la-bo-
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 650--651
+Underfull \hbox (badness 2503) in paragraph at lines 685--686
 \T1/lmr/m/n/12 ra-ción y con-trol de
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 652--652
+Underfull \hbox (badness 3250) in paragraph at lines 687--687
 []|\T1/lmr/m/n/12 Limitaciones / Des-
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 652--652
+Underfull \hbox (badness 4621) in paragraph at lines 687--687
 \T1/lmr/m/n/12 Ope-nA-PI. Per-so-na-li-
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 652--652
+Underfull \hbox (badness 1048) in paragraph at lines 687--687
 []|\T1/lmr/m/n/12 Consume más re-cur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--652
+Underfull \hbox (badness 10000) in paragraph at lines 687--687
 \T1/lmr/m/n/12 de pa-go. Re-quie-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 687--688
 []|\T1/lmr/m/n/12 Algunas fun-cio-nes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 687--688
 \T1/lmr/m/n/12 avan-za-das re-quie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 687--688
 \T1/lmr/m/n/12 ren pa-go. Me-nos
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 652--653
+Underfull \hbox (badness 1178) in paragraph at lines 687--688
 \T1/lmr/m/n/12 de de la nu-be pa-ra
  []
 
 
-Overfull \hbox (35.48903pt too wide) in paragraph at lines 626--657
+Overfull \hbox (35.48903pt too wide) in paragraph at lines 661--692
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 605.8451pt on input line 658.
+LaTeX Warning: Float too large for page by 605.8451pt on input line 693.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[23]
-
 [24]
 
-[25
-
-]
+[25]
 
 [26
 
+]
+
+[27
+
 ] AED endfloat: Processing end Figures and Tables
 
-[27] (c:\Users\Gio\Desktop\prueba\build\main.aux
+[28] (c:\Users\Gio\Desktop\prueba\build\main.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1750,23 +1762,23 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D56E010649F9EF94F1C228B7A28F4E64;6259.
+(rerunfilecheck)             Checksum: 093EDBE7FFA1ED87D60110D22C530709;6508.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33656 strings out of 468255
- 646780 string characters out of 5441120
- 1555365 words of memory out of 5000000
- 61524 multiletter control sequences out of 15000+600000
+ 33688 strings out of 468255
+ 647705 string characters out of 5441120
+ 1554667 words of memory out of 5000000
+ 61549 multiletter control sequences out of 15000+600000
  681319 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,105p,808b,2815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Gio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on c:\Users\Gio\Desktop\prueba\build\main.pdf (27 pages, 691352 bytes).
+Output written on c:\Users\Gio\Desktop\prueba\build\main.pdf (28 pages, 706815 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 135 named destinations out of 1000 (max. 500000)
+ 367 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -57,6 +57,32 @@
       \verb https://apidog.com/
       \endverb
     \endentry
+    \entry{asciidoctor_documentation}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c02fc3160b7c640729808e52632101d0}{%
+           family={{Asciidoctor Project}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{fullhash}{c02fc3160b7c640729808e52632101d0}
+      \strng{fullhashraw}{c02fc3160b7c640729808e52632101d0}
+      \strng{bibnamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorbibnamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authornamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorfullhash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorfullhashraw}{c02fc3160b7c640729808e52632101d0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://asciidoctor.org/docs/}}
+      \field{note}{Consultado el 23 de septiembre de 2025}
+      \field{title}{Asciidoctor Documentation}
+      \field{year}{2025}
+    \endentry
     \entry{cypress_logo_social}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a8a3a4b9690f65bb2fd90bbb31a9f935}{%
@@ -569,14 +595,51 @@
       \verb https://www.postman.com/company/press-media/
       \endverb
     \endentry
+    \entry{asciidoctor}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=238522c8938a558cfea61cc95f32b12b}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Asciidoctor},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{fullhash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{fullhashraw}{238522c8938a558cfea61cc95f32b12b}
+      \strng{bibnamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorbibnamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authornamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorfullhash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorfullhashraw}{238522c8938a558cfea61cc95f32b12b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 19 de septiembre de 2025}
+      \field{title}{Asciidoctor: Procesador de texto y cadena de publicación de código abierto}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://asciidoctor.org/
+      \endverb
+      \verb{url}
+      \verb https://asciidoctor.org/
+      \endverb
+    \endentry
     \entry{selenium_documentation}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5a99ec6cbb86665f70287da0678dc378}{%
+        {{un=1,uniquepart=given,hash=5a99ec6cbb86665f70287da0678dc378}{%
            family={Project},
            familyi={P\bibinitperiod},
            given={Selenium},
            giveni={S\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{language}{1}{%
         {es}%
@@ -593,7 +656,6 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Documentación oficial de Selenium}
@@ -809,6 +871,32 @@
       \verb https://apidog.com/
       \endverb
     \endentry
+    \entry{asciidoctor_documentation}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c02fc3160b7c640729808e52632101d0}{%
+           family={{Asciidoctor Project}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{fullhash}{c02fc3160b7c640729808e52632101d0}
+      \strng{fullhashraw}{c02fc3160b7c640729808e52632101d0}
+      \strng{bibnamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorbibnamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authornamehash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorfullhash}{c02fc3160b7c640729808e52632101d0}
+      \strng{authorfullhashraw}{c02fc3160b7c640729808e52632101d0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://asciidoctor.org/docs/}}
+      \field{note}{Consultado el 23 de septiembre de 2025}
+      \field{title}{Asciidoctor Documentation}
+      \field{year}{2025}
+    \endentry
     \entry{cypress_logo_social}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a8a3a4b9690f65bb2fd90bbb31a9f935}{%
@@ -1321,14 +1409,51 @@
       \verb https://www.postman.com/company/press-media/
       \endverb
     \endentry
+    \entry{asciidoctor}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=238522c8938a558cfea61cc95f32b12b}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={Asciidoctor},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{fullhash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{fullhashraw}{238522c8938a558cfea61cc95f32b12b}
+      \strng{bibnamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorbibnamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authornamehash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorfullhash}{238522c8938a558cfea61cc95f32b12b}
+      \strng{authorfullhashraw}{238522c8938a558cfea61cc95f32b12b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 19 de septiembre de 2025}
+      \field{title}{Asciidoctor: Procesador de texto y cadena de publicación de código abierto}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://asciidoctor.org/
+      \endverb
+      \verb{url}
+      \verb https://asciidoctor.org/
+      \endverb
+    \endentry
     \entry{selenium_documentation}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5a99ec6cbb86665f70287da0678dc378}{%
+        {{un=1,uniquepart=given,hash=5a99ec6cbb86665f70287da0678dc378}{%
            family={Project},
            familyi={P\bibinitperiod},
            given={Selenium},
            giveni={S\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{language}{1}{%
         {es}%
@@ -1345,7 +1470,6 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Documentación oficial de Selenium}

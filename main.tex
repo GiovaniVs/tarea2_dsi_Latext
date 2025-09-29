@@ -359,6 +359,7 @@
 	\section{Herramientas para Documentación de Software}
 	\subsection{LaTeX}
 	LaTeX es un \textbf{sistema de preparación de documentos} orientado a la creación de textos con alta calidad tipográfica, especialmente útil para documentación técnica y científica.
+
 	 %uimagen 
 	 	\begin{figure}[h!]
 	 	\centering
@@ -398,8 +399,22 @@
 	
 
 	%SEGUNDA HERRAMIENTA PARA DOCUMENTAR
+
 	\subsection {AsciiDoc}
-	Asciidoctor es una implementación rápida y eficiente del lenguaje de marcado AsciiDoc. Permite crear documentación técnica en archivos de texto plano y transformarlos en múltiples formatos de salida, tales como HTML, PDF, ePub y DocBook. Su enfoque está en ofrecer una sintaxis legible para humanos, manteniendo un alto nivel de estructuración en los documentos.
+	Asciidoctor es una implementación rápida y eficiente del lenguaje de marcado AsciiDoc. Permite crear documentación técnica en archivos de texto plano y transformarlos en múltiples formatos de salida, tales como HTML, PDF, ePub y DocBook. Su enfoque está en ofrecer una sintaxis legible para humanos, manteniendo un alto nivel de estructuración en los documentos.\cite{asciidoctor}
+
+	URL sito oficial: 
+	\href{https://asciidoctor.org/}{AsciiDoc}
+
+	%imagen 
+	 %uimagen 
+	 	\begin{figure}[h!]
+	 	\centering
+	 	\includegraphics[width=0.3\textwidth]{asccidoctor.png}
+	 	\caption{Logo AsciiDoc}  \cite{asciidoctor}
+	 	\label{fig:AsciiDoc} 
+	 \end{figure}
+
 	\subsubsection{Características principales}
 
 		\begin{itemize}
@@ -415,8 +430,28 @@
 		\item Multiplataforma (Windows, Linux, macOS).
 		\item Funciona como herramienta de línea de comandos y como librería en proyectos Ruby, Java, JavaScript.
 	\end{itemize}
+
+	\subsubsection{Ventajas y desventajas}
+	\begin{table}[h!]
+    \centering
+    \begin{tabular}{|p{6cm}|p{6cm}|}
+        \hline
+        \textbf{Ventajas} & \textbf{Desventajas} \\
+        \hline
+        Sintaxis más completa y expresiva que Markdown. & Menos conocido que Markdown, por lo que su adopción es menor. \\ \hline
+        Exportación nativa a múltiples formatos. & Requiere configuración adicional para aprovechar todo su potencial. \\ \hline
+        Fácil integración en flujos de trabajo DevOps y CI/CD. & \\ \hline
+        Amplio soporte en comunidades técnicas y empresariales. & \\ \hline
+    \end{tabular}
+    \caption{Ventajas y desventajas de Asciidoctor \cite{asciidoctor_documentation}}
+    \label{tab:ventajas_desventajas_asciidoctor}
+\end{table}
+
+%tercera herramienta
+\section{Sphinx}
+
 	
-	%% 
+	%Herramientas para documenar api rest% 
 	\section{Herramientas para documentar APIs REST.}
 	\subsection {1. Swagger (OpenAPI)}
 	Permite crear documentación interactiva de APIs REST, facilitando la comprensión y el consumo de los servicios web.\\

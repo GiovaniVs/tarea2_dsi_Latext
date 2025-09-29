@@ -1,0 +1,19 @@
+[1] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:331> INFO - Logfile is 'build/main.blg'
+[177] biber-MSWIN64:342> INFO - === 
+[234] Biber.pm:421> INFO - Reading 'build/main.bcf'
+[472] Biber.pm:1002> INFO - Found 21 citekeys in bib section 0
+[500] Biber.pm:4487> INFO - Processing section 0
+[518] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[591] bibtex.pm:1713> INFO - LaTeX decoding ...
+[628] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[822] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[823] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[823] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[946] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[947] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[947] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[1002] bbl.pm:676> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[1028] bbl.pm:779> INFO - Output to build/main.bbl
+[1029] Biber.pm:132> WARN - legacy month field 'julio' in entry 'apidog_postman' is not an integer - this will probably not sort properly.
+[1029] Biber.pm:134> INFO - WARNINGS: 1
